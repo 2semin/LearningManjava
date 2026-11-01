@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Array1Demo {
 
 	public static void main(String[] args) {
@@ -17,8 +18,6 @@ public class Array1Demo {
 		}
 		
 		System.out.println("평균 = " + sum / scores.length);
-		
-
 	}
 
 }
