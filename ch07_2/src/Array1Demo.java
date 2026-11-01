@@ -13,7 +13,7 @@ public class Array1Demo {
 			scores[i] = in.nextInt();
 		}
 			
-		for(int i = 0; i < scores.length; i ++) {
+		for(int i = 0; i < scores.length; i++) {
 			sum += scores[i];
 		}
 		
