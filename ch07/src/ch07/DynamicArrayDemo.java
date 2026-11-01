@@ -11,7 +11,7 @@ public class DynamicArrayDemo {
 		int data;
 		int sum = 0;
 		
-		while( (data = sc.nextInt()) >= -1) 
+		while((data = sc.nextInt()) >-1) 
 			scores.add(data);
 		
 		for(int s : scores) 
