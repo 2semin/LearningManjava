@@ -18,6 +18,6 @@ public class Array1Demo {
 		}
 		
 		System.out.println("평균 = " + sum / scores.length);
-	}
+	} 
 
 }
