@@ -12,6 +12,10 @@ public class DieDemo {
 		EvenDie d2 = new EvenDie();
 		d2.roll();
 		System.out.println(d2.getValue());
+		
+		OddDie d3 = new OddDie();
+		d3.roll();
+		System.out.println(d3.getValue());
 	}
 
 }
