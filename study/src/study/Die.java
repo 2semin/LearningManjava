@@ -1,7 +1,7 @@
 package study;
 import java.util.Random;
 
-class Die {
+public class Die {
 	private int value;
 
     public int getValue() {
@@ -12,7 +12,7 @@ class Die {
 		this.value = value;
 	}
 
-	void roll() {	 
+	public void roll() {	 
 	 
 		Random r = new Random();	 
 		value = r.nextInt(6) + 1;  
