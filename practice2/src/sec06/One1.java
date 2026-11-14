@@ -8,6 +8,6 @@ public class One1 extends One {
 		System.out.println(anybody);
 	}
 
-	// void show() {
-	// }
+//	 void show() {
+//	 }
 }
